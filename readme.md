@@ -1,5 +1,5 @@
 <ol>
-	<li>Clone or <a href="https://github.com/agragregra/OptimizedHTML-5/archive/master.zip">Download</a> <strong>OptimizedHTML 5</strong> from GitHub</li>
+	<li>Clone or <a href="">Download</a> <strong>Template</strong> from GitHub</li>
 	<li>Install Node Modules: <strong>npm i</strong></li>
 	<li>Run: <strong>gulp</strong></li>
 </ol>
@@ -7,8 +7,7 @@
 <h2>Main Gulp tasks:</h2>
 
 <ul>
-	<li><strong title="gulp task"><em>gulp</em></strong>: run default gulp task ('img', 'styles', 'scripts', 'browser-sync', 'watch')</li>
-	<li><strong title="cleanimg task"><em>cleanimg</em></strong>: Clean @*x responsive IMG's</li>
+	<li><strong title="gulp task"><em>gulp</em></strong>: run default gulp task ('styles', 'scripts', 'browser-sync', 'watch')</li>
 	<li><strong title="rsync task"><em>rsync</em></strong>: project deployment via <strong>RSYNC</strong></li>
 </ul>
 
