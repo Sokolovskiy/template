@@ -1,5 +1,5 @@
 <ol>
-	<li>Clone or <a href="">Download</a> <strong>Template</strong> from GitHub</li>
+	<li>Clone or <a href="https://github.com/Sokolovskiy/template/archive/master.zip">Download</a> <strong>Template</strong> from GitHub</li>
 	<li>Install Node Modules: <strong>npm i</strong></li>
 	<li>Run: <strong>gulp</strong></li>
 </ol>
